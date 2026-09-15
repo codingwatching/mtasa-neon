@@ -72,7 +72,7 @@ A selection of systems that used to be locked inside the engine. Each clip is a 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=PtjzS45Jl0w"><img src="https://i.ytimg.com/vi/PtjzS45Jl0w/hqdefault.jpg" alt="Rocket League on MTA:SA Neon" width="480"></a><br>
-  <strong>Rocket League</strong> · <a href="https://www.youtube.com/watch?v=PtjzS45Jl0w">Watch the build</a>
+  <strong>Rocket League</strong> · <a href="https://www.youtube.com/watch?v=PtjzS45Jl0w">Watch the video</a>
 </p>
 
 <p align="center">
