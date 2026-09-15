@@ -70,9 +70,15 @@ A selection of systems that used to be locked inside the engine. Each clip is a 
 
 ### More game modes built on Neon
 
-| | | |
-| :--: | :--: | :--: |
-| [![Rocket League on MTA:SA Neon](https://i.ytimg.com/vi/PtjzS45Jl0w/hqdefault.jpg)](https://www.youtube.com/watch?v=PtjzS45Jl0w)<br>**Rocket League**<br>[Watch the build](https://www.youtube.com/watch?v=PtjzS45Jl0w) | [![HaxBall on MTA:SA Neon](docs/media/haxball-demo.jpg)](docs/media/haxball-demo.mp4)<br>**HaxBall**<br>[Watch the match](docs/media/haxball-demo.mp4) | [![HaxBall on MTA:SA Neon](docs/media/haxball-demo-2.jpg)](docs/media/haxball-demo-2.mp4)<br>**HaxBall — 2v2**<br>[Watch the demo](docs/media/haxball-demo-2.mp4) |
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=PtjzS45Jl0w"><img src="https://i.ytimg.com/vi/PtjzS45Jl0w/hqdefault.jpg" alt="Rocket League on MTA:SA Neon" width="480"></a><br>
+  <strong>Rocket League</strong> · <a href="https://www.youtube.com/watch?v=PtjzS45Jl0w">Watch the build</a>
+</p>
+
+<p align="center">
+  <a href="docs/media/haxball-demo.mp4"><img src="docs/media/haxball-demo.jpg" alt="HaxBall on MTA:SA Neon" width="480"></a><br>
+  <strong>HaxBall</strong> · <a href="docs/media/haxball-demo.mp4">Watch clip 1</a> · <a href="docs/media/haxball-demo-2.mp4">Watch clip 2</a>
+</p>
 
 ```lua
 -- Build a wall's collision from a Lua table, then change it live
